@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|inc|images|robots\.txt|assets|uploads)
+RewriteRule ^(.*)$ /free/index.php/$1
+
+# Activate below during maintenance period
+#RewriteRule ^(.*)$ /server-maintenance.php [L]
