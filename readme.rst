@@ -11,7 +11,7 @@ Release Information
 *******************
 
 This is the initial release that includes and admin panel for faculty
-members to update their information. It uses the CodeIgniter Framework as the MVC
+members to update their information. It uses the CodeIgniter MVC Framework
 
 **************************
 Changelog and New Features
